@@ -17,6 +17,7 @@ public class Week4Mon {
     public static void main(String[] args) {
        System.out.println("push");
        // changes 
+        // fetch + merge
     }
 
 }
