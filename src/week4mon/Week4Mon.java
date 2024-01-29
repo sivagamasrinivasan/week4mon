@@ -18,6 +18,7 @@ public class Week4Mon {
        System.out.println("push");
        // changes 
         // fetch + merge
+        // bring changes to local rep
     }
 
 }
